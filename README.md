@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hey, I am starting love github
+I am a student
+I love biology
